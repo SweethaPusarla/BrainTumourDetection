@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GQSXdz9HWtU4kPZ8ar77W-MC2QGrlFTZ
 """
 
-!pip install opendatasets --upgrade --quiet
+
 
 import opendatasets as od
 
