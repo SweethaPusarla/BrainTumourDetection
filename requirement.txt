@@ -1,2 +1,8 @@
 opendatasets
 streamlit
+numpy
+pandas
+cv2
+matplotlib
+scikit-learn
+
